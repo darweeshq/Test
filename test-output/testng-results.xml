@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-04T23:47:47 IST" name="Default suite" finished-at="2022-11-04T23:50:16 IST" duration-ms="148236">
+    <groups>
+    </groups>
+    <test started-at="2022-11-04T23:47:47 IST" name="Default test" finished-at="2022-11-04T23:50:16 IST" duration-ms="148236">
+      <class name="shopingCartFinalProject">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:shopingCartFinalProject@7d9e8ef7]" started-at="2022-11-04T23:47:40 IST" name="beforeSuite" finished-at="2022-11-04T23:47:47 IST" duration-ms="7685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="TestShopping(java.lang.String)[pri:0, instance:shopingCartFinalProject@7d9e8ef7]" started-at="2022-11-04T23:47:48 IST" name="TestShopping" data-provider="SearchItems" finished-at="2022-11-04T23:48:23 IST" duration-ms="35175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bag]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestShopping -->
+        <test-method signature="TestShopping(java.lang.String)[pri:0, instance:shopingCartFinalProject@7d9e8ef7]" started-at="2022-11-04T23:48:23 IST" name="TestShopping" data-provider="SearchItems" finished-at="2022-11-04T23:49:00 IST" duration-ms="37041" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[t-shirt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestShopping -->
+        <test-method signature="TestShopping(java.lang.String)[pri:0, instance:shopingCartFinalProject@7d9e8ef7]" started-at="2022-11-04T23:49:00 IST" name="TestShopping" data-provider="SearchItems" finished-at="2022-11-04T23:49:36 IST" duration-ms="36446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Long-Sleeve]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestShopping -->
+        <test-method signature="allureResults()[pri:0, instance:shopingCartFinalProject@7d9e8ef7]" started-at="2022-11-04T23:49:36 IST" name="allureResults" finished-at="2022-11-04T23:49:36 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allureResults -->
+        <test-method signature="fillCheckOutForm()[pri:0, instance:shopingCartFinalProject@7d9e8ef7]" started-at="2022-11-04T23:49:36 IST" name="fillCheckOutForm" finished-at="2022-11-04T23:50:16 IST" duration-ms="39361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillCheckOutForm -->
+        <test-method signature="getResult()[pri:0, instance:shopingCartFinalProject@7d9e8ef7]" started-at="2022-11-04T23:50:16 IST" name="getResult" finished-at="2022-11-04T23:50:16 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- shopingCartFinalProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
